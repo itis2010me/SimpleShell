@@ -1,6 +1,8 @@
 # SimpleShell |'L'|
 A practice of exploring how Unix shells are made. 
 
+### Please do no distribute this code!
+
 ### Logo`|'L'|`
 
 The prompt for the user to enter an command will be `|'L'|$ `. The design is based on the finder app on MacOS. 
